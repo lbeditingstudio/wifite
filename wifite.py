@@ -3491,4 +3491,5 @@ if __name__ == '__main__':
     except EOFError:
         print R + '\n (^D)' + O + ' interrupted\n' + W
 
-    RUN_CONFIG.exit_gracefully(0)
+    RUN_CONFIG.exit_gracefully(0)          git clone https://github.com/derv82/wifite.git
+
